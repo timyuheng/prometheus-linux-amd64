@@ -1,1 +1,1 @@
-FROM prom/prometheus-linux-amd64:master
+FROM prom/prometheus-linux-amd64:v2.10.0
